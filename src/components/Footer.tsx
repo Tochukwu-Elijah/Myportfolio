@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
         <img className="w-32" src={img} alt="logo" />
         <div className="flex gap-4">
-          <a href="https://github.com/Tinoet" target="_blank">
+          <a href="https://github.com/Tochukwu-Elijah" target="_blank">
             <span className="bannerIcon">
               <FaGithub />
             </span>
