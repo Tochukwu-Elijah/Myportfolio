@@ -74,7 +74,7 @@ const Navbar = () => {
                   Find me On
                 </h2>
                 <div className="flex gap-4">
-                  <a href="https://github.com/Tinoet" target="_blank">
+                  <a href="https://github.com/Tochukwu-Elijah" target="_blank">
                     <span className="bannerIcon">
                       <FaGithub />
                     </span>
